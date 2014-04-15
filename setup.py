@@ -28,10 +28,10 @@ setup( name='publica',
         'posts',
     ],
     dependency_links = [
-        'http://github.com/commoncode/entropy/tarball/master#egg=entropy',
-        'http://github.com/commoncode/menus/tarball/master#egg=menus',
-        'http://github.com/commoncode/pages/tarball/master#egg=pages',
-        'http://github.com/commoncode/platforms/tarball/master#egg=platforms',
-        'http://github.com/commoncode/posts/tarball/master#egg=posts',
+        'http://github.com/commoncode/entropy/tarball/master#egg=entropy-0.0.3',
+        'http://github.com/commoncode/menus/tarball/master#egg=menus-0.0.2',
+        'http://github.com/commoncode/pages/tarball/master#egg=pages-0.0.2',
+        'http://github.com/commoncode/platforms/tarball/master#egg=platforms-0.0.3',
+        'http://github.com/commoncode/posts/tarball/master#egg=posts-0.0.2',
     ]
 )
